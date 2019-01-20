@@ -1,5 +1,7 @@
 # **Project Description and Motivation**
 
+## Demo Video URL: https://youtu.be/6TooqYaSXrs 
+
 Having been a part of restaurants as part time job holders, we could relate to the issues of food insecurity. Hence we chose to show the disparity between food wastage and food shortage and bring awareness with the help of statistics available. We added custom skills related to food insecurity to Amazon Echo using Amazon web services and analyzed the datasets based on hunger using pandas. We ran into issues with Echo, as it was not able to recognise the location but eventually came up with a solution. Datasets related to food insecurity were difficult to find and the ones which were found had missing values. So we tried to combine various datasets to get the relevant information. We are proud as we were able to work on a prominent problem. We learned about Amazon web services and python. The next step for our project would be to add more skills to Echo, where it can read tweet data, household data and make it more personalized.
 
 ## Below are the steps stated by Alexa sample example
